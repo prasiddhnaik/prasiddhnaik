@@ -1,24 +1,24 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Repos](https://img.shields.io/badge/Repos-13-blue?style=flat-square)](https://github.com/prasiddhnaik?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/prasiddhnaik?label=Followers&style=flat-square)](https://github.com/prasiddhnaik)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm **Prasiddh Naik**! I'm a 7th-grade student at People's High School with a passion for coding, computers, and game development. I love building cool stuff — from AI agents to games to productivity tools.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 🎓 Education: People's High School (7th Grade)
+- 📅 Hacking Since: October 2019
+- 💻 Public Repos: 13
+- 🐍 Most Used Language: Python
+- 🌟 Current Focus: Building AI-powered projects like MAGI
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🤖 [MAGI](https://github.com/prasiddhnaik/MAGI) — Multiple AI agents working together. (Python) ⭐
+- 📝 [floating-todo-app](https://github.com/prasiddhnaik/floating-todo-app) — Simple todo app that stays on top of all windows. (JavaScript)
+- 🎮 [warhammer-40k-my-first-python-game](https://github.com/prasiddhnaik/warhammer-40k-my-first-python-game) — My first Python game inspired by Warhammer 40K. (Python)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, JavaScript, HTML, Shell
+- 🔭 Focus: AI/ML, Game Development, Automation
+- ❤️ Interests: Coding, Computers, Game Development
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
