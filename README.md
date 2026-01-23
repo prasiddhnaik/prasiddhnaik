@@ -1,24 +1,27 @@
-[![Repos](https://img.shields.io/badge/Repos-13-blue?style=flat-square)](https://github.com/prasiddhnaik?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-15-blue?style=flat-square)](https://github.com/prasiddhnaik?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/prasiddhnaik?label=Followers&style=flat-square)](https://github.com/prasiddhnaik)
 
 ## About
-👋 Heyo, I'm **Prasiddh Naik**! I'm a 7th-grade student at People's High School with a passion for coding, computers, and game development. I love building cool stuff — from AI agents to games to productivity tools.
+👋 Heyo, I'm **Prasiddh Naik**! I'm an 8th-grade student at People's High School with a passion for coding, computers, and game development. I love building cool stuff — from AI agents to games to productivity tools.
 
-- 🎓 Education: People's High School (7th Grade)
+- 🎓 Education: People's High School (8th Grade)
 - 📅 Hacking Since: October 2019
-- 💻 Public Repos: 13
+- 💻 Public Repos: 15
 - 🐍 Most Used Language: Python
-- 🌟 Current Focus: Building AI-powered projects like MAGI
+- 🌟 Current Focus: Building AI-powered projects & financial tools
 
 ## Featured Projects
 - 🤖 [MAGI](https://github.com/prasiddhnaik/MAGI) — Multiple AI agents working together. (Python) ⭐
+- 📈 [US-stock-analyzer](https://github.com/prasiddhnaik/US-stock-analyzer) — Analyze US stocks with AI-powered insights. (Python)
+- 📊 [ai-trading-agent](https://github.com/prasiddhnaik/ai-trading-agent) — AI-powered trading agent. (Python)
+- 🎵 [Music-agent](https://github.com/prasiddhnaik/Music-agent) — AI agent for music. (Python)
 - 📝 [floating-todo-app](https://github.com/prasiddhnaik/floating-todo-app) — Simple todo app that stays on top of all windows. (JavaScript)
 - 🎮 [warhammer-40k-my-first-python-game](https://github.com/prasiddhnaik/warhammer-40k-my-first-python-game) — My first Python game inspired by Warhammer 40K. (Python)
 
 ## Tech & Interests
-- 🧰 Languages: Python, JavaScript, HTML, Shell
-- 🔭 Focus: AI/ML, Game Development, Automation
-- ❤️ Interests: Coding, Computers, Game Development
+- 🧰 Languages: Python, JavaScript, TypeScript, HTML, Shell
+- 🔭 Focus: AI/ML, Financial Tech, Game Development, Automation
+- ❤️ Interests: Coding, AI Agents, Stock Analysis, Game Development
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
