@@ -11,11 +11,8 @@
 - 🌟 Current Focus: Building AI-powered projects & financial tools
 
 ## Featured Projects
-- 🤖 [MAGI](https://github.com/prasiddhnaik/MAGI) — Multiple AI agents working together. (Python) ⭐
 - 📈 [US-stock-analyzer](https://github.com/prasiddhnaik/US-stock-analyzer) — Analyze US stocks with AI-powered insights. (Python)
-- 📊 [ai-trading-agent](https://github.com/prasiddhnaik/ai-trading-agent) — AI-powered trading agent. (Python)
 - 🎵 [Music-agent](https://github.com/prasiddhnaik/Music-agent) — AI agent for music. (Python)
-- 📝 [floating-todo-app](https://github.com/prasiddhnaik/floating-todo-app) — Simple todo app that stays on top of all windows. (JavaScript)
 - 🎮 [warhammer-40k-my-first-python-game](https://github.com/prasiddhnaik/warhammer-40k-my-first-python-game) — My first Python game inspired by Warhammer 40K. (Python)
 
 ## Tech & Interests
