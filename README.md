@@ -1,21 +1,104 @@
-# 💫 About Me:
-hello im prasiddh naik im building web app to help people with the t3 stack
+# Hi, I am Prasiddh Naik 👋
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasiddhnaik&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
+</div>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:legoprasiddh@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrasiddhNaik&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PrasiddhNaik&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrasiddhNaik&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7AA2F7&center=true&vCenter=true&width=650&lines=8th-grade+student+building+web+apps;T3+Stack+%26+TypeScript;Full-stack+products+with+real+utility;Learning+fast+and+shipping+often" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=PrasiddhNaik&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🚢 [ShipCheap](https://github.com/prasiddhnaik/shipcheap)
+*Backend hosting without billing jumpscares.*
+*   **Key Systems:** Hosting calculator, ranked backend-platform recommendations, comparison filters, platform detail pages, beginner guides, and saved comparison links.
+*   **Architecture:** Next.js App Router application with Prisma-backed saved comparisons and a structured platform recommendation engine.
+*   **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Prisma, SQLite, pnpm.
+
+### 🇮🇳 [BharatZero](https://github.com/prasiddhnaik/Bharat0) | [Live Demo](https://bharatzero.vercel.app/)
+*An India-focused legislative explorer for bills, Acts, Parliament timelines, House power, Prime Minister terms, and official source coverage.*
+*   **Key Systems:** Generated legislative datasets, bill/action timelines, PM-term history panels, source badges, local fallback analysis, and optional AI analysis.
+*   **Architecture:** Vite/React frontend with a small Node API server, Prisma repository path, and PostgreSQL/Neon support.
+*   **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, Node.js, Prisma, PostgreSQL, Neon.
+
+### 📰 [Personalized News Digest](https://github.com/prasiddhnaik/personalized-news-digest) | [Live Demo](https://personalizednews-digest.vercel.app)
+*An AI-powered news digest SaaS that sends personalized email briefings based on the topics and schedule each user chooses.*
+*   **Key Systems:** Clerk sign-in, topic preferences, daily or weekly digest scheduling, Gemini article summaries, Resend email delivery, archive history, and unsubscribe flow.
+*   **Architecture:** Next.js web app with Prisma persistence, BullMQ scheduling, Redis-backed background processing, and a separate worker process for digest generation.
+*   **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Clerk, Prisma, BullMQ, Redis, Gemini, Resend.
+
+### 🎨 [NFT Art Studio](https://github.com/prasiddhnaik/nft-art-studio)
+*A generative NFT art creation platform with trait rarity, layer-based composition, and metadata generation for NFT collections.*
+*   **Key Systems:** Canvas-based layer composition, trait rarity weights, batch generation, IPFS metadata export, preview gallery, and collection deployment helpers.
+*   **Architecture:** React frontend with canvas rendering, localStorage for draft persistence, and modular trait/layer configuration.
+*   **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Canvas API.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Core
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,rust,solidity,html,css" alt="Languages and core tools" />
+  </a>
+</p>
+
+### Web & Backend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,fastapi,tailwind,prisma,postgres,redis" alt="Web and backend stack" />
+  </a>
+</p>
+
+### Infrastructure & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,docker" alt="Infrastructure and tools" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=prasiddhnaik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prasiddhnaik&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=prasiddhnaik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=prasiddhnaik&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasiddhnaik&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
