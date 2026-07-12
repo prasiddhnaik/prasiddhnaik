@@ -26,7 +26,7 @@
 *   **Architecture:** Vite/React frontend with a small Node API server, Prisma repository path, and PostgreSQL/Neon support.
 *   **Tech Stack:** React, Vite, TypeScript, Tailwind CSS, Node.js, Prisma, PostgreSQL, Neon.
 
-### 📰 [Personalized News Digest](https://github.com/prasiddhnaik/personalized-news-digest) | [Live Demo](https://personalizednews-digest.vercel.app)
+### 📰 [Personalized News Digest](https://github.com/prasiddhnaik/personalized-news-digest)
 *An AI-powered news digest SaaS that sends personalized email briefings based on the topics and schedule each user chooses.*
 *   **Key Systems:** Clerk sign-in, topic preferences, daily or weekly digest scheduling, Gemini article summaries, Resend email delivery, archive history, and unsubscribe flow.
 *   **Architecture:** Next.js web app with Prisma persistence, BullMQ scheduling, Redis-backed background processing, and a separate worker process for digest generation.
